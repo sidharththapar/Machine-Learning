@@ -1,10 +1,10 @@
 # Machine-Learning
 ## Machine Learning (Supervised, Unsupervised and NN)
-Supervised Learning:
+### Supervised Learning:
  1. Linear Regression
  2. Classification
 
-## Unsupervised Learning:
+### Unsupervised Learning:
  1. Principal Component Analysis
  2. Kernel PCA
  3. K-Means Clustering
